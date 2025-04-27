@@ -131,6 +131,7 @@ header {
     gap: 0.5rem;
     font-weight: 700;
     font-size: 1.25rem;
+    padding-top: 1.5rem;
 }
 
 .logo i {
@@ -139,6 +140,7 @@ header {
 
 .desktop-nav {
     display: none;
+    padding-top: 1.5rem;
 }
 
 .desktop-nav a {
